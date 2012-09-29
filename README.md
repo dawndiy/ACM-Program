@@ -1,4 +1,4 @@
 ACM-Program
 ===========
 
-Some Acm programs 
+从大学时期开始做过的一些ACM程序设计题.
